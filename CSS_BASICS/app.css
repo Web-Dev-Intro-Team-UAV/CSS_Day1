@@ -1,0 +1,51 @@
+/* selector{
+    property:value;
+} */
+/* *{
+    color:red;
+} */
+/* p{
+    color:orange;
+} */
+/* #yellow{
+    color:blue;
+} */
+/* .green{
+    color:red;
+} */
+/* input[type="text"]{
+    color:white;
+    background-color: red;
+} */
+/* label[for="pw"]
+{
+    color:orangered;
+} */
+/* h1,h2{
+    color:red;
+} */
+/* p span{
+    color:red;
+} */
+/* p:hover{
+    color:red;
+} */
+/* p:nth-of-type(2n){
+    background-color: red;
+} */
+/* p::first-letter{
+    color:red;
+} */
+/* -----Selector ends */
+/* h1{
+    text-align: center;
+} */
+/* h1{
+    font-weight:900;
+} */
+/* span{
+    font-weight: 900;
+} */
+/* h1{
+    font-size: 100px;
+} */
